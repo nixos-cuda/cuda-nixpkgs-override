@@ -1,0 +1,54 @@
+{
+  "cublasmp": {
+    "sha256": "sha256-McdsOCP7tvdhJXoAC3hGZV+RJxqq5mhVb8bezbP1e0U=",
+    "url": "https://developer.download.nvidia.com/compute/cublasmp/redist/redistrib_0.9.1.json"
+  },
+  "cuda": {
+    "sha256": "sha256-pM1GU08Eor5W5XoDAAErWEJ26HgzM2Y+5WyehFegJ4M=",
+    "url": "https://developer.download.nvidia.com/compute/cuda/redist/redistrib_13.2.1.json"
+  },
+  "cudnn": {
+    "sha256": "sha256-JlrdN73V6Hq9GP0zZQIDKhDgaKVC4O5am1mSCmexCb4=",
+    "url": "https://developer.download.nvidia.com/compute/cudnn/redist/redistrib_9.23.2.json"
+  },
+  "cudss": {
+    "sha256": "sha256-d85nMUxrAQe9IRLmrW3mWpVaJGGQSSI0+UcPwqcC+gs=",
+    "url": "https://developer.download.nvidia.com/compute/cudss/redist/redistrib_0.8.0.json"
+  },
+  "cuquantum": {
+    "sha256": "sha256-rgTBLfD7cf9g+FFOC7o/ya9u3rctYfpOSi7pylE9Yik=",
+    "url": "https://developer.download.nvidia.com/compute/cuquantum/redist/redistrib_26.03.2.json"
+  },
+  "cusolvermp": {
+    "sha256": "sha256-wAYv3ZHOYKgRh1i2YnrGljwVvcAGYTvrmLDi2DURKU4=",
+    "url": "https://developer.download.nvidia.com/compute/cusolvermp/redist/redistrib_0.8.0.json"
+  },
+  "cusparselt": {
+    "sha256": "sha256-vrI8Zu/c7TO2b9B2cwo09RWIkrhhfyd6bi236M5HtmI=",
+    "url": "https://developer.download.nvidia.com/compute/cusparselt/redist/redistrib_0.9.1.json"
+  },
+  "cutensor": {
+    "sha256": "sha256-mB9sEwTIyK9nzab4nvzIxZdycct9CDAkIOJIDtYg864=",
+    "url": "https://developer.download.nvidia.com/compute/cutensor/redist/redistrib_2.7.0.json"
+  },
+  "nppplus": {
+    "sha256": "sha256-h2eJiC2x21T5dnxOSMB4bJo2C1oPx1alccMXcMsvX4o=",
+    "url": "https://developer.download.nvidia.com/compute/nppplus/redist/redistrib_0.10.0.json"
+  },
+  "nvcomp": {
+    "sha256": "sha256-q3tK9za7PFbLomOoofU/d9MLw33JBz1yuUY/PkjbBzE=",
+    "url": "https://developer.download.nvidia.com/compute/nvcomp/redist/redistrib_5.2.0.json"
+  },
+  "nvjpeg2000": {
+    "sha256": "sha256-jwJzf+bL8YGpnctJbefwFlHkDKxD18K9jHrT8xkprlA=",
+    "url": "https://developer.download.nvidia.com/compute/nvjpeg2000/redist/redistrib_0.10.0.json"
+  },
+  "nvpl": {
+    "sha256": "sha256-47IDGvywDqYbVuQsMPnxXYuPtNTZhFtu1Um7dEbmK70=",
+    "url": "https://developer.download.nvidia.com/compute/nvpl/redist/redistrib_26.5.json"
+  },
+  "nvtiff": {
+    "sha256": "sha256-4tc6TXVjB5qIKySGPZHzgvokB/3fA34nA0WLSwXTn2g=",
+    "url": "https://developer.download.nvidia.com/compute/nvtiff/redist/redistrib_0.7.0.json"
+  }
+}
